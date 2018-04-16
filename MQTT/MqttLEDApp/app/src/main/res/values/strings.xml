@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MqttLightSensorApp</string>
+
+    <string name="work_host">10.100.200.60</string>
+    <string name="work_host_port">1883</string>
+
+    <string name="home_host">192.168.15.6</string>
+    <string name="home_host_port">1883</string>
+
+    <string name="lamp_client_id">lamp1_1</string>
+    <string name="lamp_topic_domain">smarthome</string>
+    <string name="lamp_topic_target">lamp1</string>
+
+    <string name="light_sensor_client_id">light_sensor1_1</string>
+    <string name="light_sensor_topic_domain">smarthome</string>
+    <string name="light_sensor_topic_target">light_sensor1</string>
+</resources>

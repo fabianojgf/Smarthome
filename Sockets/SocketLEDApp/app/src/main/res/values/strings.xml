@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SocketLightSensorApp</string>
+
+    <string name="work_host">10.100.200.60</string>
+    <string name="work_host_port">8000</string>
+    <string name="work_local_port">8010</string>
+
+    <string name="home_host">192.168.15.6</string>
+    <string name="home_host_port">8000</string>
+    <string name="home_local_port">8010</string>
+
+    <string name="lamp_client_name">lamp1</string>
+    <string name="lamp_target_name">control</string>
+
+    <string name="light_sensor_client_name">light_sensor1_1</string>
+    <string name="light_sensor_target_name">control</string>
+</resources>
